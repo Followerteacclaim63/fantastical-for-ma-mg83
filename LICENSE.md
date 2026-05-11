@@ -1,4 +1,4 @@
-#  
+#  Enhance Fantastical for macOS with automatic Fantastical for macOS Extension | collaboration + database templates, the #1 extension. Includes collaboration and database templates
 
 
 
